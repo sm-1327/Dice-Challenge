@@ -13,7 +13,7 @@
 
  ## Another Try
     
-<img src="https://user-images.githubusercontent.com/75598643/118352666-37b54500-b580-11eb-9f67-f2e3f796284b.png" width="500" height='350'>
+<img src="https://user-images.githubusercontent.com/75555239/118360595-1c5d3080-b5a6-11eb-9db6-28c8987dd788.png" width="500" height='350'>
 
  ## About the Website
     
