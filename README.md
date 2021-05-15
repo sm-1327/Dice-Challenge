@@ -4,7 +4,7 @@
     
    ##  When there is a draw!
     
-   <img src="https://user-images.githubusercontent.com/75598643/118352648-1e13fd80-b580-11eb-9ffc-7bda9899a68f.png" width="350" height='400'>
+   <img src="https://user-images.githubusercontent.com/75555239/118360544-cf795a00-b5a5-11eb-9ebd-dc40d7b0f251.png" width="350" height='400'>
     
 
  ## Another Try
